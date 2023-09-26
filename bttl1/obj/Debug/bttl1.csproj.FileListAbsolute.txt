@@ -1,0 +1,11 @@
+D:\bttl1\bttl1\bin\Debug\bttl1.exe.config
+D:\bttl1\bttl1\bin\Debug\bttl1.exe
+D:\bttl1\bttl1\bin\Debug\bttl1.pdb
+D:\bttl1\bttl1\obj\Debug\bttl1.csproj.AssemblyReference.cache
+D:\bttl1\bttl1\obj\Debug\bttl1.csproj.SuggestedBindingRedirects.cache
+D:\bttl1\bttl1\obj\Debug\bttl1.Form1.resources
+D:\bttl1\bttl1\obj\Debug\bttl1.Properties.Resources.resources
+D:\bttl1\bttl1\obj\Debug\bttl1.csproj.GenerateResource.cache
+D:\bttl1\bttl1\obj\Debug\bttl1.csproj.CoreCompileInputs.cache
+D:\bttl1\bttl1\obj\Debug\bttl1.exe
+D:\bttl1\bttl1\obj\Debug\bttl1.pdb
